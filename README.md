@@ -13,4 +13,4 @@
 ##
 # Goal
 ## Keep the clock spinning as long as possible.
-## BUT, beware, time stops for no one, so it kust keeps moving and moving.
+## BUT, beware, time stops for no one.
